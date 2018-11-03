@@ -73,6 +73,7 @@ public class TodoDAO {
 
 	public void deleteTodo(int id) {
 		todoArray.remove(id);
+		this.id--;
 		for (int i = id; i < todoArray.size(); i++) {
 			todoArray.get(i).setId(i);
 		}
