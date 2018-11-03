@@ -2,9 +2,9 @@
 
 #####  WinterCoding 개발과제 - 웹 에관한 Page입니다.
 <br/><br/>
-## linux 기준 실행 ubuntu 16.04 기준
+## linux 기준 실행 - ubuntu 16.04 기준
 - JDK 설치<br/><br/>
-  > $ $ sudo apt-add-repository ppa:webupd8team/java<br/><br/>
+  > $ sudo apt-add-repository ppa:webupd8team/java<br/><br/>
   > $ sudo apt-get update<br/><br/>
   > $ sudo apt-get install oracle-java8-installer<br/><br/>
 
