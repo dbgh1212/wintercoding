@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+
+.hyper-blue {
+	color: blue;
+}
+
+th, td {
+	padding-right: 8px;
+	padding-left: 8px;
+}
+
+tr:nth-child(even) {
+	background-color: #403F3F;
+}
+
+.table td {
+   text-align: center;   
+}
