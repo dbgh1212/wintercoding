@@ -17,8 +17,7 @@
   
 - eclipse로 실행<br/>
   > 프로젝트 우클릭 -> run as -> Run on server
-
-  <br/><br/>
+  
 - war file로 배포 후 실행<br/>
   > eclipse 상에서 프로젝트 우클릭 -> export -> war file
   > tomdat8 아래 webapps폴더에 war file 넣음
