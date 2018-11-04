@@ -19,9 +19,9 @@
   > 프로젝트 우클릭 -> run as -> Run on server
   
 - war file로 배포 후 실행<br/>
-  > eclipse 상에서 프로젝트 우클릭 -> export -> war file
-  > tomdat8 아래 webapps폴더에 war file 넣음
-  > 터미널에 webapps경로까지 들어간 후 $ sudo service tomcat8 start 입력
+  > eclipse 상에서 프로젝트 우클릭 -> export -> war file<br/>
+  > tomdat8 아래 webapps폴더에 war file 넣음<br/>
+  > 터미널에 webapps경로까지 들어간 후 $ sudo service tomcat8 start 입력<br/>
   > 홈 path: http://localhost:8080/WinCoding
   
 ## 외부 lib, taglib 사용
