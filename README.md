@@ -17,5 +17,14 @@
   
 - eclipse로 실행<br/>
   > 프로젝트 우클릭 -> run as -> Run on server
- 
+<br/><br/>
+## 외부 lib, taglib 사용
+	-apache tiles
+	-hibernate-validator
+	-bootstrap
+	-fontawesome
+	-sprng form
+	-jstl
+	
+	
 <br/><br/>
